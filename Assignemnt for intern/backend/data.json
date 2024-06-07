@@ -1,0 +1,97 @@
+{
+    "users": [
+        {
+            "name": "User1",
+            "value": 100
+        },
+        {
+            "name": "User2",
+            "value": 90
+        },
+        {
+            "name": "User3",
+            "value": 80
+        },
+        {
+            "name": "User4",
+            "value": 70
+        },
+        {
+            "name": "User5",
+            "value": 60
+        },
+        {
+            "name": "User6",
+            "value": 50
+        },
+        {
+            "name": "User7",
+            "value": 40
+        },
+        {
+            "name": "User8",
+            "value": 30
+        },
+        {
+            "name": "User9",
+            "value": 20
+        },
+        {
+            "name": "User10",
+            "value": 10
+        },
+        {
+            "name": "User11",
+            "value": 100
+        },
+        {
+            "name": "User12",
+            "value": 90
+        },
+        {
+            "name": "User13",
+            "value": 80
+        },
+        {
+            "name": "User14",
+            "value": 70
+        },
+        {
+            "name": "User15",
+            "value": 60
+        },
+        {
+            "name": "User16",
+            "value": 50
+        },
+        {
+            "name": "User17",
+            "value": 40
+        },
+        {
+            "name": "User18",
+            "value": 30
+        },
+        {
+            "name": "User19",
+            "value": 20
+        },
+        {
+            "name": "User20",
+            "value": 10
+        }
+    ],
+    "chart": {
+        "type": "area",
+        "properties": {
+            "width": 600,
+            "height": 400,
+            "dataKey": "value",
+            "nameKey": "name",
+            "outerRadius": 150,
+            "fill": "#8884d8",
+            "backgroundColor": "#1e1e1e",
+            "title": "User Distribution"
+        }
+    }
+}
